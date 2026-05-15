@@ -4,13 +4,6 @@
 
 ---
 
-<sub>CONTACT</sub>
-
-[![Telegram](https://img.shields.io/badge/t.me%2Fsal3m5__m-A89E2F?style=flat-square&logo=telegram&logoColor=000000)](https://t.me/sal3m5_m)
-[![GitHub](https://img.shields.io/badge/gitsalem-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/gitsalem)
-
----
-
 <sub>SKILLSETS</sub>
 
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ffffff)
